@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\SuperDestructo.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{8140EE09-FBC5-4329-B794-976727C3A2C8}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SuperDestructo.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SuperDestructoEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{FDDA1F9E-EED6-4CC6-9D99-0AA8DD952AF2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\SuperDestructo">
+			<UniqueIdentifier>{05D114E1-52ED-418B-B075-012E1E27695E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SuperDestructo\SuperDestructo.Build.cs">
+			<Filter>Source\SuperDestructo</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SuperDestructo\SuperDestructo.cpp">
+			<Filter>Source\SuperDestructo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SuperDestructo\SuperDestructo.h">
+			<Filter>Source\SuperDestructo</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SuperDestructo\SuperDestructoGameModeBase.cpp">
+			<Filter>Source\SuperDestructo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SuperDestructo\SuperDestructoGameModeBase.h">
+			<Filter>Source\SuperDestructo</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SuperDestructo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\u1149097\Documents\SuperDestructo\SuperDestructo\Intermediate\Build\Win64\UE4Editor\Development\SuperDestructo\SuperDestructo.cpp.obj"
+"C:\Users\u1149097\Documents\SuperDestructo\SuperDestructo\Intermediate\Build\Win64\UE4Editor\Development\SuperDestructo\SuperDestructoGameModeBase.cpp.obj"
+"C:\Users\u1149097\Documents\SuperDestructo\SuperDestructo\Intermediate\Build\Win64\UE4Editor\Development\SuperDestructo\SuperDestructo.init.gen.cpp.obj"
+"C:\Users\u1149097\Documents\SuperDestructo\SuperDestructo\Intermediate\Build\Win64\UE4Editor\Development\SuperDestructo\SuperDestructoGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\SuperDestructo\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\u1149097\Documents\SuperDestructo\SuperDestructo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SuperDestructo.lib"
